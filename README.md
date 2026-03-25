@@ -1,2 +1,2 @@
 # export-checkup
-expèor
+export
